@@ -86,5 +86,4 @@ Routine 버킷코드 = [도메인][버킷] 2자리
 ## 연구 엔진
 
 `research-lab` 스킬(`/research-lab`)이 이 워크스페이스의 연구 방법론 엔진이다(4-에이전트 Council + Chairman).
-- 사본: `가-process/1-research/10-reference/2026_06_07_research-lab-skill/`
-- 활성: `~/.claude/skills/research-lab/` (작업본) · 백업: GitHub `kkh2114/claude-skills`
+- 설치 위치: `~/.claude/skills/research-lab/` (전역). 이 스킬은 **관리자에게 받아** 넣는다 → [SKILLS.md](./SKILLS.md).
